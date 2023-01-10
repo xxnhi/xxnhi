@@ -2,11 +2,11 @@
 <h1 align="center">Hello there :sparkles:, My name is Nhi :point_right: :point_left:</h1>
 <h3 align="center">A passionate frontend developer from Vietnam :sparkling_heart: .</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
-- 🔭 I’m currently studying at UIT :office:
+🔭 I’m currently studying at UIT :office:
 
-- 🌱 I’m currently learning **ReactJS**
+🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **xuannhi27.work@gmail.com**
+📫 How to reach me **xuannhi27.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
